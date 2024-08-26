@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HyunJeong%20Kim&fontSize=90" />
-## Welcome to HyunJeong World!
 
 <!--
 **hjkim57/hjkim57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
