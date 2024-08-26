@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=HyunJeong%20Kim&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=F7B7A3,E55D87,F67280,C06C84,FF6A00&height=300&section=header&text=HyunJeong%20Kim&fontSize=80" />
+
 
 <!--
 **hjkim57/hjkim57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
