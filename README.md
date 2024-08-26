@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=HyunJeong%20Kim&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5&height=300&section=header&text=HyunJeong%20Kim&fontSize=80" />
 
 ### :blush: Introduction
 
